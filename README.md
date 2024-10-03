@@ -5,30 +5,28 @@ I'm a passionate developer skilled in Java, Python, HTML, CSS, and version contr
 
 ## 💻 Skills
 - **Languages:** Java, Python, HTML, CSS
-- **Tools:** IntelliJ, Eclipse, Visual Studio Code, Git
-- **Frameworks:** (Add any frameworks you are familiar with, e.g., Spring, Django)
+- **Tools:** IntelliJ, Eclipse, Visual Studio Code, GitHub
 
 ## 🌱 Current Projects
 Here are some of my favorite projects:
 
-1. **[Project Name](link-to-project)**
-   - **Description:** Brief description of what the project does.
-   - **Technologies Used:** Java, HTML, CSS
+1. **[I101 Website]()**
+   - **Description:** This project is a website made for INFO-I101, that covers an underrepresented innovator in tech.
+   - **Technologies Used:** HTML, CSS
 
-2. **[Another Project Name](link-to-project)**
-   - **Description:** Brief description of this project.
-   - **Technologies Used:** Python, Git
+2. **[Calculator](link-to-project)**
+   - **Description:** A simple four function calculator made with HTML, styled with CSS and functionality with JavaScrip
+   - **Technologies Used:** HTML, CSS, JavaScript
 
-3. **[Yet Another Project Name](link-to-project)**
-   - **Description:** A short overview of this project.
-   - **Technologies Used:** HTML, CSS, JavaScript (if applicable)
+3. **[Login Page](link-to-project)**
+   - **Description:** Website login page, takes username and password, made in HTML, styled in CSS. 
+   - **Technologies Used:** HTML, CSS
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Your LinkedIn Profile](link-to-your-linkedin)
-- **Email:** [Your Email](mailto:youremail@example.com)
+- **LinkedIn:** [Benjamin Jacobs](https://www.linkedin.com/in/ben-jax/)
 
 Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate or just say hi!
 
