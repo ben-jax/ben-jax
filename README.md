@@ -10,7 +10,7 @@ I'm a passionate developer skilled in Java, Python, HTML, CSS, and version contr
 ## 🌱 Current Projects
 Here are some of my favorite projects:
 
-1. **[I101 Website]()**
+1. **[I101 Website (Current Project)]()**
    - **Description:** This project is a website made for INFO-I101, that covers an underrepresented innovator in tech.
    - **Technologies Used:** HTML, CSS
 
@@ -23,7 +23,7 @@ Here are some of my favorite projects:
    - **Technologies Used:** HTML, CSS
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ben-jax&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [Benjamin Jacobs](https://www.linkedin.com/in/ben-jax/)
