@@ -9,7 +9,6 @@ I am a second year Computer Science B.S. student at Indiana University Bloomingt
 - **Librarys:** yfinance, yahoo_fin, matplotlib, pandas, numpy
 
 ## 🌱 Current Project
-Here are some of my favorite projects:
 **[I101 Website (Current Project)](https://github.com/ben-jax/I101-UR-Project)**
    - **Description:** This project is a website made for INFO-I101, that covers an underrepresented innovator in tech.
    - **Technologies Used:** HTML, CSS
