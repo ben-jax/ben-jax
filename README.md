@@ -14,11 +14,11 @@ I am a second year Computer Science B.S. student at Indiana University Bloomingt
    - **Technologies Used:** HTML, CSS
 
 ## Other Projects
-2. **[Calculator](https://github.com/ben-jax/Calculator)**
+**[Calculator](https://github.com/ben-jax/Calculator)**
    - **Description:** A simple four function calculator made with HTML, styled with CSS and functionality with JavaScrip
    - **Technologies Used:** HTML, CSS, JavaScript
 
-3. **[Login Page](https://github.com/ben-jax/Login-Page)**
+**[Login Page](https://github.com/ben-jax/Login-Page)**
    - **Description:** Website login page, takes username and password, made in HTML, styled in CSS. 
    - **Technologies Used:** HTML, CSS
 
