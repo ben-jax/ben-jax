@@ -1,24 +1,25 @@
 # 👋 Welcome to My GitHub Profile!
 
 ## 🌟 About Me
-I'm a passionate developer skilled in Java, Python, HTML, CSS, and version control with Git. I enjoy creating projects that solve real-world problems and continuously learning new technologies.
+I am a second year Computer Science B.S. student at Indiana University Bloomington in the Luddy school of Informatics, Computing and Engineering, who is very passionate about programming and learning to model our world and transform my imagination into reality. Below are some of my projects, skills and interests!
 
 ## 💻 Skills
-- **Languages:** Java, Python, HTML, CSS
+- **Languages:** Java, Python, HTML, CSS, JavaScript
 - **Tools:** IntelliJ, Eclipse, Visual Studio Code, GitHub
+- **Librarys:** yfinance, yahoo_fin, matplotlib, pandas, numpy
 
-## 🌱 Current Projects
+## 🌱 Current Project
 Here are some of my favorite projects:
-
-1. **[I101 Website (Current Project)]()**
+**[I101 Website (Current Project)](https://github.com/ben-jax/I101-UR-Project)**
    - **Description:** This project is a website made for INFO-I101, that covers an underrepresented innovator in tech.
    - **Technologies Used:** HTML, CSS
 
-2. **[Calculator](link-to-project)**
+## Other Projects
+2. **[Calculator](https://github.com/ben-jax/Calculator)**
    - **Description:** A simple four function calculator made with HTML, styled with CSS and functionality with JavaScrip
    - **Technologies Used:** HTML, CSS, JavaScript
 
-3. **[Login Page](link-to-project)**
+3. **[Login Page](https://github.com/ben-jax/Login-Page)**
    - **Description:** Website login page, takes username and password, made in HTML, styled in CSS. 
    - **Technologies Used:** HTML, CSS
 
