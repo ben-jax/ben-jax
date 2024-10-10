@@ -1,35 +1,34 @@
-# 👋 Welcome to My GitHub Profile!
+## 🌟 Hello, World! I'm Ben
+Second year Computer Science B.S. undergraduate at Indiana University Bloomington, in the Luddy School of Informatics, Computing and Engineering and minoring in finance. Interests in data sciences, finance, investing, artificiall intellgence, full stack development and security.
 
-## 🌟 About Me
-I am a second year Computer Science B.S. student at Indiana University Bloomington in the Luddy school of Informatics, Computing and Engineering, who is very passionate about programming and learning to model our world and transform my imagination into reality. Below are some of my projects, skills and interests!
+## 💻 Skills and Technologies
 
-## 💻 Skills
-- **Languages:** Java, Python, HTML, CSS, JavaScript
-- **Tools:** IntelliJ, Eclipse, Visual Studio Code, GitHub
-- **Librarys:** yfinance, yahoo_fin, matplotlib, pandas, numpy
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudio&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![yfinance](https://img.shields.io/badge/yfinance-1C5C8B?style=flat&logo=python&logoColor=white) ![yahoo_fin](https://img.shields.io/badge/yahoo_fin-1C5C8B?style=flat&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-DA5C5C?style=flat&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-## 🌱 Current Project
+
+## 🧑‍💻 Projects
 **[I101 Website (Current Project)](https://github.com/ben-jax/I101-UR-Project)**
    - **Description:** This project is a website made for INFO-I101, that covers an underrepresented innovator in tech.
    - **Technologies Used:** HTML, CSS
-
-## Other Projects
-**[Calculator](https://github.com/ben-jax/Calculator)**
+     
+**🧮 [Calculator](https://github.com/ben-jax/Calculator)**
    - **Description:** A simple four function calculator made with HTML, styled with CSS and functionality with JavaScrip
    - **Technologies Used:** HTML, CSS, JavaScript
 
-**[Login Page](https://github.com/ben-jax/Login-Page)**
+**🔓 [Login Page](https://github.com/ben-jax/Login-Page)**
    - **Description:** Website login page, takes username and password, made in HTML, styled in CSS. 
    - **Technologies Used:** HTML, CSS
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ben-jax&show_icons=true&theme=radical)
-
-## 📫 How to Reach Me
+## 📫 Connect With Me
 - **LinkedIn:** [Benjamin Jacobs](https://www.linkedin.com/in/ben-jax/)
-
-Feel free to explore my repositories, and don’t hesitate to reach out if you’d like to collaborate or just say hi!
 
 ---
 
 Thanks for visiting my profile! 🚀
+
+
+
+
