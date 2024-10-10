@@ -1,4 +1,4 @@
-## 🌟 Hello, World! I'm Ben
+## 👋 Hello, World! I'm Ben
 
 Second year Computer Science B.S. undergraduate at Indiana University Bloomington, in the Luddy School of Informatics, Computing and Engineering and minoring in finance. Interests in data sciences, finance, investing, artificiall intellgence, full stack development and security.
 
