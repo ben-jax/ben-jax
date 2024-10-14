@@ -18,15 +18,15 @@ Second year Computer Science B.S. undergraduate at Indiana University Bloomingto
 ## 🧑‍💻 Projects
 **👤 [I101 Website (Current Project)](https://github.com/ben-jax/I101-UR-Project)**
    - **Description:** This project is a website made for INFO-I101, that covers an underrepresented innovator in tech.
-   - **Technologies Used:** HTML, CSS
+   - **Languages:** HTML, CSS
      
 **🧮 [Calculator](https://github.com/ben-jax/Calculator)**
    - **Description:** A simple four function calculator made with HTML, styled with CSS and functionality with JavaScrip
-   - **Technologies Used:** HTML, CSS, JavaScript
+   - **Languages:** HTML, CSS, JavaScript
 
 **🔓 [Login Page](https://github.com/ben-jax/Login-Page)**
    - **Description:** Website login page, takes username and password, made in HTML, styled in CSS. 
-   - **Technologies Used:** HTML, CSS
+   - **Languages:** HTML, CSS
 
 ---
 
