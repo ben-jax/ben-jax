@@ -1,7 +1,6 @@
 ## 👋 About Me
 
 Computer Science B.S. undergraduate at Indiana University. Specailizing in Artificial Intellegence. Data Management Intern at Humana.
-I specializing in AI/ML work which gives me a strong interst in data science and math. I also have passion for learning about cybersecruity.
 
 ---
 
