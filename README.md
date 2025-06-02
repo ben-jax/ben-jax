@@ -1,6 +1,7 @@
 ## 👋 About Me
 
-Second year Computer Science B.S. undergraduate at Indiana University Bloomington, in the Luddy School of Informatics, Computing and Engineering and minoring in finance. Interests in data sciences, finance, investing, artificiall intellgence, full stack development and security.
+Computer Science B.S. undergraduate at Indiana University. Specailizing in Artificial Intellegence. Data Management Intern at Humana.
+I specializing in AI/ML work which gives me a strong interst in data science and math. I also have passion for learning about cybersecruity.
 
 ---
 
@@ -16,7 +17,7 @@ Second year Computer Science B.S. undergraduate at Indiana University Bloomingto
 
 
 ## 🧑‍💻 Projects
-**👤 [I101 Website (Current Project)](https://github.com/ben-jax/I101-UR-Project)**
+**👤 [I101 Website](https://github.com/ben-jax/I101-UR-Project)**
    - **Description:** This project is a website made for INFO-I101, that covers an underrepresented innovator in tech.
    - **Languages:** HTML, CSS
      
